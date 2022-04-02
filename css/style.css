@@ -1,0 +1,81 @@
+.card {
+  border-radius: 30px;
+}
+
+img.img-thumbnail {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon-arrow {
+  width: 50px;
+  height: 50px;
+}
+
+body {
+  background-color: #ededed;
+}
+
+.tittle-charater {
+  text-align: center;
+}
+
+.btn-more {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu-charaters {
+  padding-right: 0%;
+}
+
+.favorites {
+  background-color: #e0e0e0;
+  padding: 0%;
+  border-radius: 30px;
+}
+
+.favorites:hover {
+  background-color: #cfcfcf;
+}
+
+.button-mdal {
+  background-color: rgb(214, 214, 214);
+  border-radius: 25px;
+  text-align: center;
+  font-family: sans-serif;
+  cursor: pointer;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s ease all;
+}
+
+.button-mdal:hover {
+  background-color: rgb(155, 155, 155);
+}
+
+.button-mdal a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.button-mdal a:hover {
+  color: red;
+}
+
+.button-mdal img {
+  width: 25px;
+  height: 25px;
+}
+
+.span-f {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
